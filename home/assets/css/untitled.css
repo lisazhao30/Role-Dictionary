@@ -1,0 +1,15 @@
+div {
+    text-align: center;
+  }
+  
+  .text-center {
+    text-align: center !important;
+  }
+  
+  p {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  
